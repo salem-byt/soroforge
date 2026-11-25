@@ -1,4 +1,4 @@
-# SoroForge
+#SoroForge
 
 [![CI](https://github.com/soroworks/soroforge/actions/workflows/ci.yml/badge.svg)](https://github.com/soroworks/soroforge/actions/workflows/ci.yml)
 [![Security](https://github.com/soroworks/soroforge/actions/workflows/security.yml/badge.svg)](https://github.com/soroworks/soroforge/actions/workflows/security.yml)
